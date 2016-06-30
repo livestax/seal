@@ -57,7 +57,7 @@ class SlackPoster
       @mood_hash[:username]= "#{@season_name}Seal of Approval"
     elsif @mood == "angry"
       @mood_hash[:icon_emoji]= ":#{@season_symbol}angrier_seal:"
-      @mood_hash[:username]= "#{@season_name}Angry Seal"
+      @mood_hash[:username]= "#{@season_name}Reminder Seal"
     elsif @mood == "tea"
       @mood_hash[:icon_emoji]= ":manatea:"
       @mood_hash[:username]= "Tea Seal"
