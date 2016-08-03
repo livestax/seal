@@ -5,6 +5,7 @@ livestax:
     - lozette
     - mnowster
     - sl33p
+    - joelcarr
 
   channel:
     "#pull-requests"
