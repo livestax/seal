@@ -6,6 +6,7 @@ livestax:
     - mnowster
     - sl33p
     - joelcarr
+    - deberny
 
   channel:
     "#pull-requests"
